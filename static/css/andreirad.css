@@ -1,0 +1,28 @@
+.row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.row > div:nth-child(3) {
+    margin-left: auto;
+}
+
+.header-image-container {
+    padding-right: 20px;
+}
+
+.header-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.fill {
+    flex: 1;
+}
+
+.pull-right {
+    margin-left: auto;
+}

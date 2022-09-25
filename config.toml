@@ -1,0 +1,32 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Andrei Rad'
+theme = "ezhil"
+copyright = "© 2022 Andrei Rad"
+
+
+[params]
+    # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site
+    featherIconsCDN = true
+    customCSS = "css/andreirad.css"
+    images = ['images/andrei-rad.jpg']
+
+[[menu.main]]
+name = "Blog"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 5
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/AndreiMihaiRad"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/rad_andrei29"
