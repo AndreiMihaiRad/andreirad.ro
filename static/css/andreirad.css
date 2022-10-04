@@ -26,3 +26,9 @@
 .pull-right {
     margin-left: auto;
 }
+
+
+.highlight div,
+.highlight pre {
+  overflow-x: auto;
+}
