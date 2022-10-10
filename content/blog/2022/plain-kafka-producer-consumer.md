@@ -5,10 +5,12 @@ draft: false
 tags: ["kafka", "java"]
 ---
 
-## Setting Up Plain Kafka consumer and producers in Java
+This is my first article related to front-end technologies.
+I will start a new series of articles where we will go from very basic concepts of HTML to advanced web technologies such as ReactJS.
 
-This article aims to help anyone who wants to start with Kafka but does not want to use any Java Framework.
-We will cover all the steps needed for you to setup a Kafaka Broker as well as configure a basic gradle project with both Producers and Consumers.
+<!--more-->
+
+## Setting Up Plain Kafka consumer and producers in Java
 
 ![](/images/2022/Kafka%20Consumer%20Producer.drawio.png)
 
